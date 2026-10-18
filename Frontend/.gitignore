@@ -3,6 +3,7 @@ node_modules
 out
 build
 .env*.local
+.env
 *.pem
 npm-debug.log*
 .DS_Store
