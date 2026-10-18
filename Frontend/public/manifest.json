@@ -1,6 +1,6 @@
 {
   "name": "SabiMarket AI",
-  "short_name": "SabiMarket",
+  "short_name": "SabiM",
   "description": "Voice-first market assistant for Nigerian traders — track sales, know today's best prices, no wahala.",
   "start_url": "/",
   "display": "standalone",
@@ -9,25 +9,25 @@
   "theme_color": "#1E3A5F",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "/icons/apple_icon_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-192-maskable.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "/icons/icon-512.png",
+      "src": "/icons/apple_icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512-maskable.png",
+      "src": "/icons/apple_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/apple_icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
